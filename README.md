@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 喜欢蓝色的语言：Golang 、 TypeScript， 最近在研究Harness
+- 蓝色的语言：Golang 、 TypeScript绝好调， 最近在研究Harness
 
 - 九石奏、Roxy狂热单推人
 
