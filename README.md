@@ -6,15 +6,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-## About Me
-
-
-
-- Surprised to discover that thinking for myself doesn't consume tokens.
-
-- Currently researching Harness engineering.
-
-- A hardcore devoted fan of Kanade and Roxy.
 
 
 ---
