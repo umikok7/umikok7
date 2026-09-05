@@ -14,4 +14,5 @@
 
 - **[roxy-agent](https://github.com/umikok7/roxy-agent)** ✨ - A customizable desktop AI Agent featuring 3D-VRM Roxy
 - **[roxy.skill](https://github.com/umikok7/Roxy-SKILL)** 💧 - a Roxy-inspired learning skill that explains tech like magic
+- **[typing](https://github.com/umikok7/typing)** ⌨️  - a LeetCode Hot 100 code typing trainer with live syntax highlighting
 - **[MyEmoMarkAPP](https://github.com/umikok7/MyEmoMarkAPP)** 💙 - a lightweight emotion tracking PWA for marking and reflecting on daily feelings
